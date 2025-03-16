@@ -1,3 +1,6 @@
 [submodule "deep_learning_and_the_game_of_go"]
 	path = deep_learning_and_the_game_of_go
 	url = https://github.com/maxpumperla/deep_learning_and_the_game_of_go.git
+[submodule "handson-ml3"]
+	path = handson-ml3
+	url = https://github.com/ageron/handson-ml3.git
