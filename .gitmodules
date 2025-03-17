@@ -1,15 +1,15 @@
 [submodule "deep_learning_and_the_game_of_go"]
-	path = deep_learning_and_the_game_of_go
+	path = bibliography/repositories/deep_learning_and_the_game_of_go
 	url = https://github.com/maxpumperla/deep_learning_and_the_game_of_go.git
 [submodule "handson-ml3"]
-	path = handson-ml3
+	path = bibliography/repositories/handson-ml3
 	url = https://github.com/ageron/handson-ml3.git
 [submodule "deep-rl-class"]
-	path = deep-rl-class
+	path = bibliography/repositories/deep-rl-class
 	url = https://github.com/huggingface/deep-rl-class.git
 [submodule "leela-zero"]
-	path = leela-zero
+	path = bibliography/repositories/leela-zero
 	url = https://github.com/leela-zero/leela-zero
 [submodule "galvanise_zero"]
-	path = galvanise_zero
+	path = bibliography/repositories/galvanise_zero
 	url = https://github.com/richemslie/galvanise_zero
