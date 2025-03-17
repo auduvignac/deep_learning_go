@@ -4,3 +4,6 @@
 [submodule "handson-ml3"]
 	path = handson-ml3
 	url = https://github.com/ageron/handson-ml3.git
+[submodule "deep-rl-class"]
+	path = deep-rl-class
+	url = https://github.com/huggingface/deep-rl-class.git
