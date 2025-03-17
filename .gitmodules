@@ -13,3 +13,6 @@
 [submodule "galvanise_zero"]
 	path = bibliography/repositories/galvanise_zero
 	url = https://github.com/richemslie/galvanise_zero
+[submodule "bibliography/repositories/monte-carlo-tree-search"]
+	path = bibliography/repositories/monte-carlo-tree-search
+	url = https://github.com/ImparaAI/monte-carlo-tree-search.git
