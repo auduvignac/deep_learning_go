@@ -7,3 +7,6 @@
 [submodule "deep-rl-class"]
 	path = deep-rl-class
 	url = https://github.com/huggingface/deep-rl-class.git
+[submodule "leela-zero"]
+	path = leela-zero
+	url = https://github.com/leela-zero/leela-zero
