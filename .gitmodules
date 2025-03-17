@@ -10,3 +10,6 @@
 [submodule "leela-zero"]
 	path = leela-zero
 	url = https://github.com/leela-zero/leela-zero
+[submodule "galvanise_zero"]
+	path = galvanise_zero
+	url = https://github.com/richemslie/galvanise_zero
